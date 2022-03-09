@@ -1,0 +1,9 @@
+node_modules
+coverage
+typechain
+
+#Hardhat files
+cache
+artifacts
+
+.idea
